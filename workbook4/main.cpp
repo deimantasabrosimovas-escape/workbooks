@@ -73,32 +73,32 @@
 //    }
 //}
 
-enum class Command { MoveNorth, MoveSouth, Attack, Wait, Quit };
-
-void HandleCommand(Command command)
-{
-    switch (command)
-    {
-    case Command::MoveNorth:
-        std::cout << "   You move north.\n";
-
-    case Command::MoveSouth:
-        std::cout << "   You move south.\n";
-        break;
-
-    case Command::Attack:
-        std::cout << "   You attack!\n";
-        break;
-
-    case Command::Wait:
-        std::cout << "   You wait.\n";
-        break;
-    }
-}
-
-void Problem05()
-{
-    HandleCommand(Command::MoveNorth);
-    HandleCommand(Command::Attack);
-    HandleCommand(Command::Quit);
-}
+//enum class Command { MoveNorth, MoveSouth, Attack, Wait, Quit };
+//
+//void HandleCommand(Command command)
+//{
+//    switch (command)
+//    {
+//    case Command::MoveNorth:
+//        std::cout << "   You move north.\n";
+//
+//    case Command::MoveSouth:
+//        std::cout << "   You move south.\n";
+//        break;
+//
+//    case Command::Attack:
+//        std::cout << "   You attack!\n";
+//        break;
+//
+//    case Command::Wait:
+//        std::cout << "   You wait.\n";
+//        break;
+//    }
+//}
+//
+//void Problem05()
+//{
+//    HandleCommand(Command::MoveNorth);
+//    HandleCommand(Command::Attack);
+//    HandleCommand(Command::Quit);
+//}
