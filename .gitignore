@@ -74,5 +74,20 @@ x64/
 workbook2/workbook2.vcxproj.filters
 workbook2/workbook2.vcxproj.user
 
+workbook3/workbook3.vcxproj.filters
+workbook3/workbook3.vcxproj.user
+
+workbook4/workbook4.vcxproj.filters
+workbook4/workbook4.vcxproj.user
+
+workbook5/workbook5.vcxproj.filters
+workbook5/workbook5.vcxproj.user
+
+workbook6/workbook6.vcxproj.filters
+workbook6/workbook6.vcxproj.user
+
+workbook7/workbook7.vcxproj.filters
+workbook7/workbook7.vcxproj.user
+
 
 Debug/
