@@ -20,3 +20,4 @@ unbraced if around arrows
 hasStaff = true, isnt needed. the if statement just needs if(hasStaff)
 
 Problem 4
+
